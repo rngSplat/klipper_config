@@ -19,3 +19,4 @@ scripts
 .wget-hsts
 .gitconfig
 printer-*.cfg
+workspace.code-workspace
